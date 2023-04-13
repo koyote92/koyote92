@@ -1,6 +1,6 @@
-### Hello, neighbour
+## Hello, neighbour
 
-Stack:
+### Stack:
 - Python 3.x (first language)
 - Golang (in progress) (I want it as my second language)
 - PHP (in progress... maybe)
@@ -14,4 +14,10 @@ Stack:
 - Drupal (7.x)
 - FileMaker (old versions)
 
-And yeah, I work on Windows. UNIX is odd.
+### Things I need (and want) to learn
+- OOP
+- SOLID, DRY, KISSS
+- TDD, DDD, EDA
+- Docker
+- asyncio
+- aiohttp
