@@ -1,23 +1,25 @@
 ## Hello, neighbour
 
-### Stack:
+### Things I (almost) know:
 - Python 3.x (first language)
-- Golang (in progress) (I want it as my second language)
-- PHP (in progress... maybe)
-- JavaScript (in progress... maybe)
-- C# (not in progress v_v)
-- SQL (Postgre, MySQL)
+- Golang (I want it as my second language) (in progress)
+- SQL (Postgre, MySQL) (in progress)
 - Django
 - REST
 - Selenium (meh)
 - Beautifulsoup
-- Drupal (7.x)
-- FileMaker (old versions)
 
-### Things I need (and want) to learn
+### Things I need (and want) to learn:
 - OOP
 - SOLID, DRY, KISSS
 - TDD, DDD, EDA
 - Docker
 - asyncio
 - aiohttp
+
+### Things I tried and know a little:
+- PHP
+- JavaScript
+- C# (I don't like this)
+- Drupal 7
+- FileMaker (old versions)
