@@ -11,7 +11,7 @@
 
 ### Things I need (and want) to learn:
 - OOP
-- SOLID, DRY, KISSS
+- SOLID, DRY, KISS
 - TDD, DDD, EDA
 - Docker
 - asyncio
