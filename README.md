@@ -1,21 +1,22 @@
 ## Hello, neighbour
 
-### Things I (almost) know:
+### Things I think I know:
 - Python 3.x (first language)
-- Golang (I want it as my second language) (in progress)
-- SQL (Postgre, MySQL) (in progress)
+- SQL (Postgre, MySQL)
 - Django
 - REST
 - Selenium (meh)
-- Beautifulsoup
+- BeautifulSoup
 
-### Things I need (and want) to learn:
+### Things I need and want to learn:
+- Algorithms, data structures
 - OOP
 - SOLID, DRY, KISS
 - TDD, DDD, EDA
 - Docker
 - asyncio
 - aiohttp
+- Golang (I want it as my second language)
 
 ### Things I tried and know a little:
 - PHP
