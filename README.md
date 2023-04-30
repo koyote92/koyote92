@@ -1,4 +1,4 @@
-## Hello, neighbour
+## Hello, neighbour!
 
 ### Things I think I know:
 - Python 3.x (first language)
@@ -9,10 +9,10 @@
 - BeautifulSoup
 
 ### Things I need and want to learn:
-- Algorithms, data structures
+- Algorithms, data structures (
 - OOP
-- SOLID, DRY, KISS
-- TDD, DDD, EDA
+- SOLID, DRY, KISS, YAGNI
+- TDD, DDD and others
 - Docker
 - asyncio
 - aiohttp
@@ -24,3 +24,9 @@
 - C# (I don't like this)
 - Drupal 7
 - FileMaker (old versions)
+
+## Reading right now:
+- Mark Lutz, Learning Python, 5th edition
+- Cory Althoff, The Self-Taught Computer Scientist
+- Aditya Bhargava, Grokking Algorithms
+- Ian Miell and Aidan Hobson Sayers, Docker in Practice, 2nd edition
