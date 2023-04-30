@@ -25,7 +25,7 @@
 - Drupal 7
 - FileMaker (old versions)
 
-## Reading right now:
+### Reading right now:
 - Mark Lutz, Learning Python, 5th edition
 - Cory Althoff, The Self-Taught Computer Scientist
 - Aditya Bhargava, Grokking Algorithms
