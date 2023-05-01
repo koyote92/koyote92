@@ -1,7 +1,7 @@
 ## Hello, neighbour!
 
 ### Things I think I know:
-- Python 3.x (first language)
+- Python 3.x (my first language)
 - SQL (Postgre, MySQL)
 - Django
 - REST
@@ -9,7 +9,7 @@
 - BeautifulSoup
 
 ### Things I need and want to learn:
-- Algorithms, data structures (
+- Algorithms, data structures
 - OOP
 - SOLID, DRY, KISS, YAGNI
 - TDD, DDD and others
