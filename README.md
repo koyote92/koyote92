@@ -16,6 +16,7 @@
 - Docker
 - asyncio
 - aiohttp
+- Linux
 - Golang (I want it as my second language)
 
 ### Things I tried and know a little:
@@ -26,7 +27,8 @@
 - FileMaker (old versions)
 
 ### Reading right now:
-- Mark Lutz, Learning Python, 5th edition
+- Mark Lutz, Learning Python, 5th edition, vol. 1
 - Cory Althoff, The Self-Taught Computer Scientist
 - Aditya Bhargava, Grokking Algorithms
 - Ian Miell and Aidan Hobson Sayers, Docker in Practice, 2nd edition
+- Cristopher Negus, Linux Bible, 10th editin
