@@ -1,12 +1,14 @@
 ## Hello, neighbour!
 
-### Things I think I know:
+<details>
+  <summary>>### Things I think I know:</summary>
 - Python 3.x (my first language)
 - SQL (Postgre, MySQL)
 - Django
 - REST
 - Selenium (meh)
 - BeautifulSoup
+</details>
 
 ### Things I need and want to learn:
 - Algorithms, data structures
