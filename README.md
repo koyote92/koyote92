@@ -28,6 +28,8 @@
 
 ### Studying at:
 - Yandex.Practicum, python backend developer
+- https://stepik.org/
+- https://exercism.org/
 - Work
 
 ### Reading right now:
