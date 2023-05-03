@@ -49,7 +49,7 @@ Never thought I would enjoy it so much!
 
 <details>
   <summary>My bookshelf 📚</summary>
-    Yeah I don't like e-books 💢<br>
+    <br>Yeah I don't like e-books 💢<br>
     <img src="https://i.ibb.co/ScCqWHk/photo-2023-05-04-03-05-01.jpg" alt="My bookshelf" border="0">
 </details>
 
