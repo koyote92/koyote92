@@ -32,7 +32,7 @@ My name is Roman, 30-year-old programmer from Ufa. I started learning programmin
   <summary>Studying at 👨‍🎓</summary>
     <pre>
 - Yandex.Practicum, python backend developer course
-- https://stepik.org/
+- https://stepik.org/ (profile: https://stepik.org/users/476421715)
 - https://exercism.org/
 - Work</pre>
 </details>
