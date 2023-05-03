@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 My name is Roman, a 30-year-old programmer from Ufa. I started learning programming and computer science from scratch on 03/15/22.
-Never thought I would enjoy it so much!
+<br>Never thought I would enjoy it so much!
 
 <details>
   <summary>Things I think I know</summary>
