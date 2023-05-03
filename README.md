@@ -3,7 +3,7 @@
 <details>
   <summary>Things I think I know</summary>
     <pre>
-- Python 3.x (my first language)
+- Python 3 (my first language)
 - SQL (Postgre, MySQL)
 - Django
 - REST
@@ -26,16 +26,6 @@
 </details>
 
 <details>
-  <summary>Things I tried and know a little</summary>
-    <pre>
-- PHP
-- JavaScript
-- C# (I don't like this)
-- Drupal 7
-- FileMaker (old versions)</pre>
-</details>
-
-<details>
   <summary>Studying at</summary>
     <pre>
 - Yandex.Practicum, python backend developer course
@@ -53,4 +43,14 @@
 - Al Sweigart, The Recursive Book of Recursion
 - Ian Miell and Aidan Hobson Sayers, Docker in Practice, 2nd edition
 - Cristopher Negus, Linux Bible, 10th editin</pre>
+</details>
+
+<details>
+  <summary>Things I tried and know a little</summary>
+    <pre>
+- PHP
+- JavaScript
+- C# (I don't like this)
+- Drupal 7
+- FileMaker (old versions)</pre>
 </details>
