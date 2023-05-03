@@ -1,4 +1,6 @@
-## Hello, neighbour!
+### Hi there!
+
+My name is Roman, a 30-year-old programmer from Ufa. I started learning programming and computer science from scratch on 03/15/22, and I continue to do so until now. Honestly, I never thought I would enjoy it so much!
 
 <details>
   <summary>Things I think I know</summary>
@@ -52,4 +54,9 @@
 - C# (I don't like this)
 - Drupal 7
 - FileMaker (old versions)</pre>
+</details>
+
+<details>
+  <summary>My bookshelf</summary>
+    <img src="https://i.ibb.co/ScCqWHk/photo-2023-05-04-03-05-01.jpg" alt="My bookshelf" border="0">
 </details>
