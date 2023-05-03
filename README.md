@@ -40,7 +40,6 @@
 - Mark Lutz, Learning Python, 5th edition, vol. 1
 - Cory Althoff, The Self-Taught Computer Scientist
 - Aditya Bhargava, Grokking Algorithms
-- Al Sweigart, The Recursive Book of Recursion
 - Ian Miell and Aidan Hobson Sayers, Docker in Practice, 2nd edition
 - Cristopher Negus, Linux Bible, 10th editin</pre>
 </details>
