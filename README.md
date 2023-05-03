@@ -1,6 +1,7 @@
-### Hi there!
+### Hi there! 👋
 
-My name is Roman, a 30-year-old programmer from Ufa. I started learning programming and computer science from scratch on 03/15/22, and I continue to do so until now. Honestly, I never thought I would enjoy it so much!
+My name is Roman, a 30-year-old programmer from Ufa. I started learning programming and computer science from scratch on 03/15/22.
+Never thought I would enjoy it so much!
 
 <details>
   <summary>Things I think I know</summary>
@@ -28,7 +29,7 @@ My name is Roman, a 30-year-old programmer from Ufa. I started learning programm
 </details>
 
 <details>
-  <summary>Studying at</summary>
+  <summary>Studying at 👨‍🎓</summary>
     <pre>
 - Yandex.Practicum, python backend developer course
 - https://stepik.org/
@@ -37,13 +38,19 @@ My name is Roman, a 30-year-old programmer from Ufa. I started learning programm
 </details>
 
 <details>
-  <summary>Reading right now</summary>
+  <summary>Reading right now 👀</summary>
     <pre>
 - Mark Lutz, Learning Python, 5th edition, vol. 1
 - Cory Althoff, The Self-Taught Computer Scientist
 - Aditya Bhargava, Grokking Algorithms
 - Ian Miell and Aidan Hobson Sayers, Docker in Practice, 2nd edition
 - Cristopher Negus, Linux Bible, 10th editin</pre>
+</details>
+
+<details>
+  <summary>My bookshelf 📚</summary>
+    Yeah I don't like e-books 💢
+    <img src="https://i.ibb.co/ScCqWHk/photo-2023-05-04-03-05-01.jpg" alt="My bookshelf" border="0">
 </details>
 
 <details>
@@ -54,9 +61,4 @@ My name is Roman, a 30-year-old programmer from Ufa. I started learning programm
 - C# (I don't like this)
 - Drupal 7
 - FileMaker (old versions)</pre>
-</details>
-
-<details>
-  <summary>My bookshelf</summary>
-    <img src="https://i.ibb.co/ScCqWHk/photo-2023-05-04-03-05-01.jpg" alt="My bookshelf" border="0">
 </details>
