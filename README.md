@@ -1,7 +1,7 @@
 ## Hello, neighbour!
 
 <details>
-  <summary>>### Things I think I know:</summary>
+  <summary>>Things I think I know:</summary>
 - Python 3.x (my first language)
 - SQL (Postgre, MySQL)
 - Django
