@@ -4,7 +4,7 @@ My name is Roman, 30-year-old programmer from Ufa. I started learning programmin
 <br>Never thought I would enjoy it so much!
 
 <details>
-  <summary>Things I think I know</summary>
+  <summary>Things I think I know 💻</summary>
     <pre>
 - Python 3 (my first language)
 - SQL (Postgre, MySQL)
@@ -15,7 +15,7 @@ My name is Roman, 30-year-old programmer from Ufa. I started learning programmin
 </details>
 
 <details>
-  <summary>Things I need and want to learn</summary>
+  <summary>Things I need and want to learn 👨‍🔬</summary>
     <pre>
 - Algorithms, data structures
 - OOP
@@ -50,12 +50,12 @@ My name is Roman, 30-year-old programmer from Ufa. I started learning programmin
 
 <details>
   <summary>My bookshelf 📚</summary>
-    <br>Yeah I don't like e-books 💢<br>
+    <br>Yeah I really don't like e-books 💢<br>
     <img src="https://i.ibb.co/ScCqWHk/photo-2023-05-04-03-05-01.jpg" alt="My bookshelf" border="0">
 </details>
 
 <details>
-  <summary>Things I tried and know a little</summary>
+  <summary>Things I tried and know a little 🔽</summary>
     <pre>
 - PHP
 - JavaScript
