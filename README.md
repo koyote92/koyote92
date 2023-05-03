@@ -24,6 +24,7 @@ My name is Roman, 30-year-old programmer from Ufa. I started learning programmin
 - Docker
 - asyncio
 - aiohttp
+- regexp
 - Linux
 - Golang (I want it as my second language)</pre>
 </details>
