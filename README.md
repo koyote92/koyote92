@@ -2,7 +2,8 @@
 
 <details>
   <summary>Things I think I know</summary>
-<pre>- Python 3.x (my first language)
+    <pre>
+- Python 3.x (my first language)
 - SQL (Postgre, MySQL)
 - Django
 - REST
@@ -12,7 +13,8 @@
 
 <details>
   <summary>Things I need and want to learn</summary>
-<pre>- Algorithms, data structures
+    <pre>
+- Algorithms, data structures
 - OOP
 - SOLID, DRY, KISS, YAGNI
 - TDD, DDD and others
@@ -25,7 +27,8 @@
 
 <details>
   <summary>Things I tried and know a little</summary>
-<pre>- PHP
+    <pre>
+- PHP
 - JavaScript
 - C# (I don't like this)
 - Drupal 7
@@ -34,8 +37,8 @@
 
 <details>
   <summary>Studying at</summary>
-
-<pre>- Yandex.Practicum, python backend developer
+    <pre>
+- Yandex.Practicum, python backend developer course
 - https://stepik.org/
 - https://exercism.org/
 - Work</pre>
@@ -43,7 +46,8 @@
 
 <details>
   <summary>Reading right now</summary>
-<pre>- Mark Lutz, Learning Python, 5th edition, vol. 1
+    <pre>
+- Mark Lutz, Learning Python, 5th edition, vol. 1
 - Cory Althoff, The Self-Taught Computer Scientist
 - Aditya Bhargava, Grokking Algorithms
 - Al Sweigart, The Recursive Book of Recursion
