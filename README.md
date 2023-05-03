@@ -2,14 +2,14 @@
 
 <details>
   <summary>Things I think I know:</summary>
-  ```
+  <pre>
 - Python 3.x (my first language)
 - SQL (Postgre, MySQL)
 - Django
 - REST
 - Selenium (meh)
 - BeautifulSoup
-```
+</pre>
 </details>
 
 ### Things I need and want to learn:
