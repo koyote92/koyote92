@@ -1,4 +1,3 @@
-# TODO: test file for tasks
 ## Hello, neighbour!
 
 <details>
