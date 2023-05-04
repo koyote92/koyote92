@@ -46,7 +46,7 @@ My name is Roman, 30-year-old programmer from Ufa. I started learning programmin
 - Cory Althoff, The Self-Taught Computer Scientist
 - Aditya Bhargava, Grokking Algorithms
 - Ian Miell and Aidan Hobson Sayers, Docker in Practice, 2nd edition
-- Cristopher Negus, Linux Bible, 10th editin</pre>
+- Cristopher Negus, Linux Bible, 10th edition</pre>
 </details>
 
 <details>
@@ -63,4 +63,9 @@ My name is Roman, 30-year-old programmer from Ufa. I started learning programmin
 - C# (I don't like this)
 - Drupal 7
 - FileMaker (old versions)</pre>
+</details>
+
+<details>
+  <summary>My photo 🤳</summary><br>
+    <img alt="My photo" src="https://i.ibb.co/tcbydmh/photo-2023-05-04-21-51-35.jpg">
 </details>
