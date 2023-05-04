@@ -31,6 +31,17 @@ My name is Roman, 30-year-old programmer from Ufa. I started learning programmin
 </details>
 
 <details>
+  <summary>Things I tried and know a little 🔽</summary>
+    <pre>
+- HTML
+- PHP
+- JavaScript
+- C# (I don't like this)
+- Drupal 7
+- FileMaker (old versions)</pre>
+</details>
+
+<details>
   <summary>Studying at 👨‍🎓</summary>
     <pre>
 - Yandex.Practicum, python backend developer course
@@ -53,17 +64,6 @@ My name is Roman, 30-year-old programmer from Ufa. I started learning programmin
   <summary>My bookshelf 📚</summary>
     <br>Yeah I really don't like e-books 💢<br>
     <img src="https://i.ibb.co/ScCqWHk/photo-2023-05-04-03-05-01.jpg" alt="My bookshelf" border="0">
-</details>
-
-<details>
-  <summary>Things I tried and know a little 🔽</summary>
-    <pre>
-- HTML
-- PHP
-- JavaScript
-- C# (I don't like this)
-- Drupal 7
-- FileMaker (old versions)</pre>
 </details>
 
 <details>
