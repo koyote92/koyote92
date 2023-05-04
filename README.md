@@ -2,7 +2,7 @@
 
 My name is Roman, 30-year-old programmer from Ufa. I started learning programming and computer science from scratch on 03/25/22
 <br>Never thought I would enjoy it so much!
-<br>You can check my dev-diary <a href='https://t.me/python_ufa'>here</a> (in russian)
+<br>You can check my dev-diary <a href='https://t.me/python_ufa'>here <img alt="telegram" src="https://i.ibb.co/SmnLK3k/pngwing-com.png" width="24px"></a> (in russian)
 
 <details>
   <summary>Things I think I know 💻</summary>
