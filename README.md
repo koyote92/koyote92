@@ -45,7 +45,7 @@ My name is Roman, 30-year-old programmer from Ufa. I started learning programmin
   <summary>Studying at 👨‍🎓</summary>
     <pre>
 - Yandex.Practicum, python backend developer course
-- https://stepik.org/ (profile: https://stepik.org/users/476421715)
+- <a href=https://stepik.org/users/476421715>https://stepik.org/</a>
 - https://exercism.org/
 - Work</pre>
 </details>
@@ -62,7 +62,7 @@ My name is Roman, 30-year-old programmer from Ufa. I started learning programmin
 
 <details>
   <summary>My bookshelf 📚</summary>
-    <br><pre>Yeah I really don't like e-books 💢</pre><br>
+    <br><pre>Yeah I really don't like e-books 💢</pre>
     <img src="https://i.ibb.co/ScCqWHk/photo-2023-05-04-03-05-01.jpg" alt="My bookshelf" border="0">
 </details>
 
