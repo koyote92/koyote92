@@ -7,12 +7,11 @@ My name is Roman, 30-year-old programmer from Ufa. I started learning programmin
 <details>
   <summary>Things I think I know 💻</summary>
     <pre>
-- Python 3 (my first language)
-- SQL (Postgre, MySQL)
+- Python 3
+- SQL (PostgreSQL, MySQL)
 - Django
 - REST
-- Selenium (meh)
-- BeautifulSoup</pre>
+- Selenium, BeautifulSoup</pre>
 </details>
 
 <details>
@@ -27,7 +26,7 @@ My name is Roman, 30-year-old programmer from Ufa. I started learning programmin
 - aiohttp
 - regexp
 - Linux
-- Golang (I want it as my second language)</pre>
+- Golang</pre>
 </details>
 
 <details>
