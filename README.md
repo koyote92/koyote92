@@ -62,8 +62,8 @@ My name is Roman, 30-year-old programmer from Ufa. I started learning programmin
 
 <details>
   <summary>My bookshelf 📚</summary>
-    <br><pre>Yeah I really don't like e-books 💢</pre>
-    <img src="https://i.ibb.co/ScCqWHk/photo-2023-05-04-03-05-01.jpg" alt="My bookshelf" border="0">
+    <br><pre>Yeah I really don't like e-books 💢
+    <img src="https://i.ibb.co/ScCqWHk/photo-2023-05-04-03-05-01.jpg" alt="My bookshelf" border="0"></pre>
 </details>
 
 <details>
