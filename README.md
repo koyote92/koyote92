@@ -44,10 +44,10 @@ My name is Roman, 30-year-old programmer from Ufa. I started learning programmin
 <details>
   <summary>Studying at 👨‍🎓</summary>
     <pre>
-- Yandex.Practicum, python backend developer course
-- <a href=https://stepik.org/users/476421715>https://stepik.org/</a>
-- <a href=https://exercism.org>https://exercism.org/</a>
-- Work</pre>
+- <a href="https://practicum.yandex.ru/"Yandex.Practicum</a>, python backend developer, cohort #53
+- <a href=https://stepik.org/users/476421715>stepik.org</a>
+- <a href=https://exercism.org>exercism.org</a>
+- At work</pre>
 </details>
 
 <details>
