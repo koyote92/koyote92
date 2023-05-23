@@ -9,7 +9,8 @@ My name is Roman, 30-year-old programmer from Ufa. I started learning programmin
     <pre>
 - Python 3
 - SQL (PostgreSQL, MySQL)
-- Django
+- Django, Flask (worse than Django)
+- nginx, gunicorn
 - REST
 - Selenium, BeautifulSoup</pre>
 </details>
@@ -21,10 +22,10 @@ My name is Roman, 30-year-old programmer from Ufa. I started learning programmin
 - OOP
 - SOLID, DRY, KISS, YAGNI
 - TDD, DDD and others
-- Docker
+- regexp
+- docker
 - asyncio
 - aiohttp
-- regexp
 - Linux
 - Golang</pre>
 </details>
@@ -33,11 +34,11 @@ My name is Roman, 30-year-old programmer from Ufa. I started learning programmin
   <summary>Things I tried and know a little 🔽</summary>
     <pre>
 - HTML
+- FileMaker (old versions)
+- Drupal 7
 - PHP
 - JavaScript
-- C# (I don't like this)
-- Drupal 7
-- FileMaker (old versions)</pre>
+- C# (I don't like this)</pre>
 </details>
 
 <details>
