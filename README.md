@@ -9,9 +9,9 @@ My name is Roman, 30-year-old programmer from Ufa. I started learning programmin
     <pre>
 - Python 3
 - SQL (PostgreSQL, MySQL)
-- Django, Flask (worse than Django)
+- Django, DRF, Flask (worse than Django)
 - nginx, gunicorn
-- REST
+- Docker
 - Selenium, BeautifulSoup</pre>
 </details>
 
@@ -23,7 +23,6 @@ My name is Roman, 30-year-old programmer from Ufa. I started learning programmin
 - SOLID, DRY, KISS, YAGNI
 - TDD, DDD and others
 - regexp
-- docker
 - asyncio
 - FastAPI, sqlalchemy
 - Linux
@@ -44,25 +43,9 @@ My name is Roman, 30-year-old programmer from Ufa. I started learning programmin
 <details>
   <summary>Studying at 👨‍🎓</summary>
     <pre>
-- <a href="https://practicum.yandex.ru/">Yandex.Practicum</a>, python backend developer, cohort #53
+- <a href="https://practicum.yandex.ru/">Yandex.Practicum</a>, python backend developer, cohort #53 (successfully done)
 - <a href=https://stepik.org/users/476421715>stepik.org</a>
 - At work</pre>
-</details>
-
-<details>
-  <summary>Reading right now 👀</summary>
-    <pre>
-- Mark Lutz, Learning Python, 5th edition, vol. 1
-- Cory Althoff, The Self-Taught Computer Scientist
-- Aditya Bhargava, Grokking Algorithms
-- Ian Miell and Aidan Hobson Sayers, Docker in Practice, 2nd edition
-- Cristopher Negus, Linux Bible, 10th edition</pre>
-</details>
-
-<details>
-  <summary>My bookshelf 📚</summary>
-    <br><pre>Yeah I really don't like e-books 💢</pre>
-    <img src="https://i.ibb.co/ScCqWHk/photo-2023-05-04-03-05-01.jpg" alt="My bookshelf" border="0">
 </details>
 
 <details>
