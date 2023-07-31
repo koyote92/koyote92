@@ -34,10 +34,10 @@ My name is Roman, 30-year-old programmer from Ufa. I started learning programmin
     <pre>
 - HTML
 - FileMaker (old versions)
-- Drupal 7
+- Drupal 7, 10
 - PHP
 - JavaScript
-- C# (I don't like this)</pre>
+- C#</pre>
 </details>
 
 <details>
