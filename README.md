@@ -25,8 +25,7 @@ My name is Roman, 30-year-old programmer from Ufa. I started learning programmin
 - regexp
 - asyncio
 - FastAPI, sqlalchemy
-- Linux
-- Golang</pre>
+- Linux</pre>
 </details>
 
 <details>
